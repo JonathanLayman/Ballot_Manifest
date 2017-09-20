@@ -17,7 +17,7 @@ To enter a new box of files into the manifest:
 1. On the entry screen, click into the box next to Scan Label
 2. Using a barcode scanner, scan the barcode on the label you want to enter
 3. Click the Submit button
-4. Enter the ballot count for each batch Number into their corresponding boxes
+4. Enter the ballot count for each batch number into their corresponding boxes
 5. Enter both seal numbers into their corresponding boxes
 6. Click Save
 
