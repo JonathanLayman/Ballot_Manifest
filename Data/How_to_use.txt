@@ -1,0 +1,36 @@
+This software is used as an interface for entering and editing the ballot manifest
+
+To create a new ballot manifest: 
+1. Click File > Create New From Template
+2. Click Create From Template button
+3. Navigate to the location that you want the Ballot Manifest to be saved
+4. (optional) Rename the file if you want a different name.
+5. Click Save
+
+To load an existing ballot manifest:
+1. Click File > Load Manifest
+2. Click the Browse Computer button and navigate to an existing ballot manifest
+3. Click Open
+4. Click Load File
+
+To enter a new box of files into the manifest:
+1. On the entry screen, click into the box next to Scan Label
+2. Using a barcode scanner, scan the barcode on the label you want to enter
+3. Click the Submit button
+4. Enter the ballot count for each batch Number into their coorsponding boxes
+5. Enter both of the seal numbers into their coorsponding boxes
+6. Click Save
+
+To edit an entry in the ballot manifest:
+1. Click File > Edit or Remove Previous Entry
+2. Enter the number of the scanner number of the batch using two digits (ie. 01)
+3. Enter the first batch in the container
+4. Click the Edit button
+5. Use the same process as entering a new box as editing the existing one.
+	Make sure to enter all values!
+
+To remove an entry in the ballot manifest:
+1. Click File > Edit or Remove Previous Entry
+2. Enter the number of the scanner number of the batch using two digits (ie. 01)
+3. Enter the first batch in the container
+4. Click the Remove button
