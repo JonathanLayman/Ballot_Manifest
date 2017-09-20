@@ -1,6 +1,6 @@
 This software is used as an interface for entering and editing the ballot manifest
 
-To create a new ballot manifest: 
+To create a new ballot manifest:
 1. Click File > Create New From Template
 2. Click Create From Template button
 3. Navigate to the location that you want the Ballot Manifest to be saved
@@ -17,8 +17,8 @@ To enter a new box of files into the manifest:
 1. On the entry screen, click into the box next to Scan Label
 2. Using a barcode scanner, scan the barcode on the label you want to enter
 3. Click the Submit button
-4. Enter the ballot count for each batch Number into their cooresponding boxes
-5. Enter both seal numbers into their cooresponding boxes
+4. Enter the ballot count for each batch Number into their corresponding boxes
+5. Enter both seal numbers into their corresponding boxes
 6. Click Save
 
 To edit an entry in the ballot manifest:
